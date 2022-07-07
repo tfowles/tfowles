@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>tfowles.com</title>
+    <link href="https://tfowles.github.io/tfowles/feed.xml" rel="self" />
+    <link href="https://tfowles.github.io/tfowles" />
+    <updated>1969-12-31T17:00:00-07:00</updated>
+    <author>
+        <name>Thomas Fowles</name>
+    </author>
+    <id>https://tfowles.github.io/tfowles</id>
+
+</feed>

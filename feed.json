@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "tfowles.com",
+    "description": "",
+    "home_page_url": "https://tfowles.github.io/tfowles",
+    "feed_url": "https://tfowles.github.io/tfowles/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Thomas Fowles"
+    },
+    "items": [
+    ]
+}
